@@ -1,6 +1,6 @@
 run the following command int he root directory
 
 
-# npm install
+npm install
 
-# npm run codeceptsjs
+npm run codeceptjs
